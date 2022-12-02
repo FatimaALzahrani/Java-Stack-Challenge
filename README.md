@@ -22,6 +22,6 @@ Sample Input
 
 Sample Output
 true
-true
+true 
 false
 true
